@@ -1,0 +1,16 @@
+body {
+background-color: white;
+}
+
+#sid {
+color: gray;
+font-size: small;
+}
+
+#sent {
+background-color: lightcyan;
+}
+
+td {
+padding: 5px;
+}

@@ -1,0 +1,15 @@
+あらかじめ、このbinディレクトリにパスを通して、次のようにして実行します。
+
+ % cd bin
+ % knbc2html.sh out-html
+ % cp *.css out-html
+
+out-htmlは出力先のディレクトリです。あらかじめ mkdir してください。
+
+コーパス本体1、2の場所を移動した場合、あるいは別の場所にあるコーパス本
+体1、2をHTMLに変換したい場合は、knbc2html.shの次の2行を適切に書き換え
+てください。
+
+ SYNSEM_ANN=../corpus1/
+ EVAL_ANN=../corpus2/
+

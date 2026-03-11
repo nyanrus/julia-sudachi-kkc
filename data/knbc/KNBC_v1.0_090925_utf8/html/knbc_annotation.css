@@ -1,0 +1,80 @@
+body {
+background-color: white;
+}
+
+#dep {
+text-align: right;
+}
+
+#deptype {
+font-size: small;
+}
+
+td {
+padding: 0px;
+}
+
+#caseword {
+color: blue;
+}
+
+#casemarker {
+color: magenta;
+font-weight: bold;
+}
+
+#neword {
+color: green;
+}
+
+#netype {
+color: orange;
+font-weight: bold;
+}
+
+#casemposition {
+color: green;
+}
+
+#kakari-keisen {
+background-color: lightcyan;
+}
+
+#sem {
+background-color: lightcyan;
+}
+
+#synsemhead {
+background-color: blue;
+color: white;
+padding: 5px;
+}
+
+#memo {
+font-size: small;
+}
+
+#cross {
+background-color: red;
+}
+
+#sentiment_exp {
+background-color: yellow;
+}
+
+#without_sentiment {
+background-color: lightcyan;
+}
+
+#with_sentiment {
+background-color: yellow;
+}
+
+#evaluated {
+color: darkblue;
+}
+
+#eval_type {
+color: darkred;
+font-weight: bold;
+}

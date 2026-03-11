@@ -1,0 +1,30 @@
+body {
+background-color: white;
+}
+
+td {
+padding: 5px;
+background-color: lightcyan;
+}
+
+th {
+padding: 5px;
+background-color: blue;
+color: white;
+}
+
+#bnst-kugiri {
+padding: 0px;
+font-size: small;
+text-align: center;
+color: darkgray;
+background-color: orange;
+}
+
+#tag-kugiri {
+padding: 0px;
+font-size: small;
+text-align: center;
+color: darkgray;
+background-color: FFFF59;
+}
